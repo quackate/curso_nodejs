@@ -1,0 +1,8 @@
+Verde
+Rojo
+Azul
+Amarillo
+Morado
+Naranja
+Gris
+Negro
